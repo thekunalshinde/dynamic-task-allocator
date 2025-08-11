@@ -8,7 +8,6 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-env/
 build/
 develop-eggs/
 dist/
@@ -48,10 +47,10 @@ coverage.xml
 *.mo
 *.pot
 
-# VS Code settings folder
+# VS Code settings
 .vscode/
 
-# PyCharm files
+# PyCharm settings
 .idea/
 
 # Environments
